@@ -1,5 +1,8 @@
 # DHBW - Verteilte Systeme 2023 - Frey, Falk
 
+## Ergebnis als Video
+https://youtu.be/g1KuwLGTjBk
+
 ## Hub (Raspberry Pi)
 
 ## Switch (Sonoff Basic R2)
