@@ -9,7 +9,7 @@ https://youtu.be/g1KuwLGTjBk
 Der Sonoff Smart Switch verbindet sich mit einem WLAN. Die Standard-Firmware erlaubt allerdings nur die Bedieunung über eine designierte mobile App.
 Um den Switch öffentlich verwendbar zu machen, muss eine neue Firmware geflasht werden.
 
-äää Switch flashen
+### Switch flashen
 1. USB-to-TTL Adapter über RX, TX, GND, 3V an den Switch anschließen (ggf. löten)
 2. ggf. Triber für TTL-Adapter installieren
 3. Tasmotizer Software herunterladen
