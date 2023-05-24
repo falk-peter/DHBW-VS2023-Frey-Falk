@@ -3,8 +3,6 @@
 ## Ergebnis als Video
 https://youtu.be/g1KuwLGTjBk
 
-## Hub (Raspberry Pi)
-
 ## Switch (Sonoff Basic R2)
 Der Sonoff Smart Switch verbindet sich mit einem WLAN. Die Standard-Firmware erlaubt allerdings nur die Bedieunung über eine designierte mobile App.
 Um den Switch öffentlich verwendbar zu machen, muss eine neue Firmware geflasht werden.
@@ -17,6 +15,7 @@ Um den Switch öffentlich verwendbar zu machen, muss eine neue Firmware geflasht
 5. Switch wird nun einen eigenen WLAN-Endpunkt eröffnen. Suche nach Tasmota-XXX. Wenn eingeloggt, über die Einstellungen SSID und PW des eigenen WLANs eingeben.
 6. Switch sollte neu starten und sich verbinden. Seine IP kann bestimmt werden mit IP-Scan oder über den Router. Ein Aufruf der IP über einen Browser sollte die Web-UI des Browsers öffnen
 
+## Hub (Raspberry Pi)
 ### Einrichtung d. Raspberry Pi
 1. Betriebssystem runterladen
 2. Flashen auf SD-Karte
